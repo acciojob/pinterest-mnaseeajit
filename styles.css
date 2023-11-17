@@ -1,8 +1,8 @@
 /*  your css code here. If applicable */
 #hero{
 	display : flex;
-	justify-content : centre;
-	align-items : centre;
+	justify-content : center;
+	align-items : center;
 }
 #img{
 	width : 400px;
@@ -11,17 +11,21 @@
 }
 #second{
 	padding : 20px;
+	text-align : center;
 }
-#button{
-	background-color : red;
-	border-radius : 5px;
-}
+
+
 #button>a{
 	text-decoration : none;
 	color : white;
+	
 }
 button {
 	display : flex;
 	align-item : center;
 	justify-content : centre;
+	border : 1px solid red;
+	border-radius : 5px;
+	background-color : red;
+	margin-left : 80px;
 }
