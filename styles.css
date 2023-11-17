@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-#hero{
+.hero{
 	display : flex;
 	justify-content : center;
 	align-items : center;
